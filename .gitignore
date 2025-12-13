@@ -2,3 +2,4 @@
 bin/
 input.txt
 test.txt
+*.ignore
